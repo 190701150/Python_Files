@@ -1,0 +1,31 @@
+Kulanici_Bilgileri:
+  isim: "OrnekIsim"
+  soyisim: "OrnekSoysim"
+  aylik_butce: 10000
+
+Butce_Kategorileri: "Yiyecek, Icecek, Giyim, Elektronik, Ev"
+
+Butce_Yuzdeleri: "25, 5, 15, 20, 35"
+
+Butce_Ayi: "Mart"
+
+Butce_Girdileri:
+  - "01/03/2021, Ev Kirasi, Ev, 3000"
+  - "03/03/2021, Dogalgaz, Ev, 300"
+  - "02/03/2021, Market1, Yiyecek, 500"
+  - "05/03/2021, Ali Bakkal, Yiyecek, 200"
+  - "01/03/2021, Veli Bakkal, Yiyecek, 150"
+  - "01/03/2021, Market2, Yiyecek, 700"
+  - "01/03/2021, Ali Bakkal, Yiyecek, 250"
+  - "01/03/2021, Market3, Yiyecek, 400"
+  - "01/03/2021, Yemek Siparisi1, Yiyecek, 50"
+  - "01/03/2021, Yemek Siparisi2, Yiyecek, 70"
+  - "01/03/2021, Ali Bakkal, Icecek, 200"
+  - "01/03/2021, Market, Icecek, 250"
+  - "01/03/2021, Magaza2 - Pantalon, Giyim, 500"
+  - "01/03/2021, Magaza1 - Gomlek, Giyim, 300"
+  - "01/03/2021, Magaza1 - Ceket, Giyim, 700"
+  - "01/03/2021, Magaza1 - Corap, Giyim, 50"
+  - "01/03/2021, Magaza1 - Mouse, Elektronik, 200"
+  - "01/03/2021, Online - Printer, Elektronik, 700"
+  - "01/03/2021, Magaza2 - Tablet, Elektronik, 1000"    
